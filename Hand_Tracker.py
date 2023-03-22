@@ -67,8 +67,3 @@ def HandTracking(url_wideo, url_zdjecie):
 
 
 HandTracking(0,"examples/hand.jpg")
-
-# nalezy podac sciezke do pliku
-# pierwsze pole odpowiada filmowi wideo, drugie zdjeciu
-# jezeli chce sie wybrac obraz z kamery w pierwsze pole nalezy wpisac 0
-# (najlepiej dzila na kamerze)
